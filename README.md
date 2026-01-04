@@ -1,3 +1,3 @@
 ## Hi 👋
-I build web apps
+I build apps
 
