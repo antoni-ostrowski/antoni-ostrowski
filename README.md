@@ -1,3 +1,2 @@
 ## Hi 👋
-I build apps
-
+I like building apps and tools
